@@ -4,7 +4,7 @@
   "description": "",
   "main": "citest.js",
   "scripts": {
-    "start": "citest.js"
+    "start": "node citest.js"
   },
   "repository": {
     "type": "git",
