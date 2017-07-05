@@ -1,1 +1,1 @@
-web: node citest.js
+web: node index.js

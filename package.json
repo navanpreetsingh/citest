@@ -1,21 +1,13 @@
 {
-  "name": "citest",
+  "name": "jenkins-pipeline",
   "version": "1.0.0",
   "description": "",
-  "main": "citest.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node citest.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/navanpreetsingh/citest.git"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/navanpreetsingh/citest/issues"
-  },
-  "homepage": "https://github.com/navanpreetsingh/citest#readme",
   "dependencies": {
     "express": "^4.15.3"
   }
